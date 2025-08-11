@@ -1,5 +1,5 @@
 # Poison Ivy
-![Poison Ivy](poison_ivy-small.jgp "Poison Ivy")
+![Poison Ivy](poison_ivy-small.jpg "Poison Ivy")
 
 Edible: No
 
